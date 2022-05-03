@@ -10,3 +10,5 @@ class primeiraAula {
         System.out.println(“Terminei a primeira aula com um programa Java!”); 
     }
 }
+
+4 - Vai gerar um erro, já que o .class é o bytecode que a JVM usa para execultar o programa
