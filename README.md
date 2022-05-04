@@ -53,7 +53,7 @@ O programa não foi compilado com sucesso, pois o main é o método que inicia a
 _O arquivo do programa criado está dentro desta pasta com o nome **ProgramaQ6.java**_
 
 ```
-class Programa {
+class ProgramaQ6 {
     public static void main(String[] args) {
         System.out.println("João Alfredo Alves");
         System.out.println("Flamengo");
