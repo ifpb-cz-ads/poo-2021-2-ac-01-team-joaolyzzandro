@@ -47,3 +47,16 @@ O programa não foi compilado com sucesso, pois o main é o método que inicia a
      _Error: Main method not found in class Main, please define the main method as: public static void main(String[] args)_
 
 ---
+
+### **6) Crie um programa Java para imprimir duas linhas de texto usando duas linhas de código “System.out”, onde aparecerá o seu nome na primeira linha e na segunda linha aparecerá o time para o qual você torce.**
+
+_O arquivo do programa criado está dentro desta pasta com o nome **ProgramaQ6.java**_
+
+```
+class Programa {
+    public static void main(String[] args) {
+        System.out.println("João Alfredo Alves");
+        System.out.println("Flamengo");
+    }
+}
+```
