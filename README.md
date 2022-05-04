@@ -60,3 +60,9 @@ class Programa {
     }
 }
 ```
+
+---
+
+### **7) Experimente escrever todo o programa anterior em maiúsculo, compile e execute. O que aconteceu?**
+
+O programa não foi executado, pois a linguagem java é uma linguagem “Case Sensitive”, ou seja, ela identifica diferença entre uma letra maiúscula e uma letra minúscula, oque faz o sentido do programa mudar por inteiro caso tenha suas letras alteradas de maiúscula para minúscula e vice-versa.
