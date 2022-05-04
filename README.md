@@ -66,3 +66,9 @@ class Programa {
 ### **7) Experimente escrever todo o programa anterior em maiúsculo, compile e execute. O que aconteceu?**
 
 O programa não foi executado, pois a linguagem java é uma linguagem “Case Sensitive”, ou seja, ela identifica diferença entre uma letra maiúscula e uma letra minúscula, oque faz o sentido do programa mudar por inteiro caso tenha suas letras alteradas de maiúscula para minúscula e vice-versa.
+
+---
+
+### **8) Experimente salvar o arquivo com um nome diferente do nome da classe, compile e execute. O que aconteceu?**
+
+O programa não foi executado, pois na linguagem java é imprescindível que o arquivo do programa tenha o nome da classe principal que ele contém, seguido da extensão “.java”, caso contrário, ele não será compilado e executado corretamente.
